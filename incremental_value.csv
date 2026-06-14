@@ -1,0 +1,3 @@
+classifier,delta_AUROC_alignment_minus_amplitude,delta_AUROC_combined_minus_amplitude,delta_AUROC_alignment_minus_amplitude_plus_carrier,delta_log_loss_alignment_minus_amplitude,delta_log_loss_combined_minus_amplitude
+logistic,0.498983843537415,0.498983843537415,0.5027054988662132,-1.3789138604394455,-1.378638531632585
+random_forest,0.4675977891156463,0.4675977891156463,0.46478599773242635,-1.396102582490847,-1.3957507922105459

@@ -1,0 +1,23 @@
+{
+  "seed": 2026,
+  "grid_size": 128,
+  "n_time": 30,
+  "n_per_regime": 140,
+  "eta_c": 0.3,
+  "eta_p": 0.68,
+  "texture_smoothing": 5.0,
+  "fine_texture_smoothing": 1.6,
+  "carrier_smoothing": 1.2,
+  "field_noise_sigma": 0.055,
+  "measurement_noise_sigma": 0.03,
+  "signal_mean": 0.42,
+  "signal_sd_overlap": 0.003,
+  "signal_sd_separable": 0.045,
+  "carrier_mean": 0.35,
+  "carrier_sd_overlap": 0.003,
+  "carrier_sd_separable": 0.04,
+  "cv_splits": 5,
+  "cv_repeats": 15,
+  "output_root": "zonal_mio_outputs",
+  "scenario": "separable"
+}
