@@ -1,0 +1,9 @@
+{
+  "source_scenario": "amplitude_overlap",
+  "output_scenario": "stress_overlap",
+  "severity": 0.75,
+  "noise_scale": 0.55,
+  "zone_blur": 0.35,
+  "amplitude_noise_scale": 0.1,
+  "random_state": 2026
+}
